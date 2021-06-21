@@ -1,1 +1,1 @@
-# Functionally-weighted-NN
+# Functionally weighted Convolutional Neural Networks
