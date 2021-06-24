@@ -1,7 +1,7 @@
 # Functionally weighted Convolutional Neural Networks
 
-This thesis was a part of my MSc program.
-In this repo you will find code which was written for the experiments and the full report
+This thesis was a part of my MSc.
+In this repo you will find code which was written for the experiments and the full thesis report
 
 ## Quick Summary
 In this thesis we introduce a new convolutional model where the weights are functions of a continuous variable, instead of a discrete indexed kernels. 
